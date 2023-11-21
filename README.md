@@ -1,0 +1,2 @@
+# DelegateObsolete&Deleted
+ Event/Delegates
