@@ -8,13 +8,13 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Field Left Side
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - Field Right Side
+  - 'Field Down '
+  - Field Up
+  - Player
   - 
   - 
   - 
